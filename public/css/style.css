@@ -1,0 +1,23 @@
+body{
+    background-color: darkblue;
+}
+
+#pergunta{
+    margin-top: 5vh;
+}
+
+#lista-perguntas{
+    margin-top: 5vh;
+}
+
+#lista-respostas{
+    margin-top: 5vh;
+}
+
+.card-header{
+    background-color: darkorchid;
+}
+
+nav > a > img{
+    width: 40px;
+}
